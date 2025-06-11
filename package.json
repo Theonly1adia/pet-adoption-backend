@@ -1,13 +1,17 @@
 {
   "dependencies": {
+    "dotenv": "^16.5.0",
     "drizzle-orm": "^0.44.2",
+    "express": "^5.1.0",
     "mysql": "^2.18.1"
   },
   "name": "pet-adoption-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Start": "node index.js",
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
