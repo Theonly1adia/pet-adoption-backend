@@ -3,7 +3,8 @@
     "dotenv": "^16.5.0",
     "drizzle-orm": "^0.44.2",
     "express": "^5.1.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "zod": "^3.25.58"
   },
   "name": "pet-adoption-backend",
   "version": "1.0.0",
